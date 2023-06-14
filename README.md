@@ -4,7 +4,7 @@
 # [Hi I am Satya Manikanta 🤦]
 #I am a data analyst  by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Satya Manikanta" /> </p>
-<p align="left"> <a href="https://twitter.com/satyamanikant4u" target="blank"><img src="https://img.shields.io/twitter/follow/ManiShrivatsa?logo=twitter&style=for-the-badge" alt="satyamanikant4u" /></a> </p>
+<p align="left"> <a href="https://twitter.com/satyamanikant4u" target="blank"><img src="https://img.shields.io/twitter/follow/satyamanikant4u?logo=twitter&style=for-the-badge" alt="satyamanikant4u" /></a> </p>
       
 - 🔭 I’m currently working on **data analytics**
 
